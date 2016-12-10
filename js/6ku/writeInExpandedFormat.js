@@ -1,4 +1,3 @@
-//Still to submit
 function expandedForm(num) {
   num += "";
   var returnStr = "";

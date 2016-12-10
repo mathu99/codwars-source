@@ -1,5 +1,3 @@
-//Replace alphabet with alphabet position
-
 function alphabetPosition(text) {
   var alpha = "abcdefghijklmnopqrstuvwxyz";
   var returnStr = "";
